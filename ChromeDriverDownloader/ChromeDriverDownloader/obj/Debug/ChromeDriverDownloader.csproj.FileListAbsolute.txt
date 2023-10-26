@@ -1,0 +1,10 @@
+C:\Files\Projects\ChromeDriverDownloader\ChromeDriverDownloader\bin\Debug\ChromeDriverDownloader.dll
+C:\Files\Projects\ChromeDriverDownloader\ChromeDriverDownloader\bin\Debug\ChromeDriverDownloader.pdb
+C:\Files\Projects\ChromeDriverDownloader\ChromeDriverDownloader\bin\Debug\Newtonsoft.Json.xml
+C:\Files\Projects\ChromeDriverDownloader\ChromeDriverDownloader\obj\Debug\ChromeDriverDownloader.csproj.AssemblyReference.cache
+C:\Files\Projects\ChromeDriverDownloader\ChromeDriverDownloader\obj\Debug\ChromeDriverDownloader.csproj.CoreCompileInputs.cache
+C:\Files\Projects\ChromeDriverDownloader\ChromeDriverDownloader\obj\Debug\ChromeDriverDownloader.csproj.CopyComplete
+C:\Files\Projects\ChromeDriverDownloader\ChromeDriverDownloader\obj\Debug\ChromeDriverDownloader.dll
+C:\Files\Projects\ChromeDriverDownloader\ChromeDriverDownloader\obj\Debug\ChromeDriverDownloader.pdb
+C:\Files\Projects\ChromeDriverDownloader\ChromeDriverDownloader\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Files\Projects\ChromeDriverDownloader\ChromeDriverDownloader\obj\Debug\ChromeDriverDownloader.csproj.Fody.CopyLocal.cache
