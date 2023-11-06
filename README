@@ -1,0 +1,4 @@
+This is a .NET Library that gets the correct chromedriver version, even if it's not listed in the chromium website.
+It automatically downloads the correct version by checking your chrome browser version and then checking chromium.org for matching version.
+If there are no matching versions, it goes to googlechromelabs for beta versions.
+Finally, if there are no matching versions, it throws an exception.
